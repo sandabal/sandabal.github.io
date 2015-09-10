@@ -23,21 +23,21 @@
 
 
 # Site settings
-title: material
-email: naveen@pixelblenders.com
+title: Sjaak63
+email: sandabal18@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hello, I'm Naveen, a freelance front-end developer
-  and UI designer. Check out my projects on GitHub
+  Hello, I'm Sander, a freelance front-end developer
+  and UI designer.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://naveenshaji.github.io/material" # the base hostname & protocol for your site
-twitter_username: navvenshady
-github_username:  naveenshaji
+twitter_username: sandabal
+github_username:  sandabal
 css: "cyan"
 scroll-cursor: "#00BCD4"
 scroll-rail: "#0097A7"
 
 # Build settings
 markdown: kramdown
-highlighter: null #pygments
+highlighter: pygments #pygments
 lsi: false
 safe: false
